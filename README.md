@@ -14,8 +14,8 @@ You can help by sending Pull Requests to add more information.
 Table of Contents
 =================
 
- * [Initial Access](#-initial-access)
- * [Execution](#-execution)
+ * [Initial Access](#-initial-access)__Done
+ * [Execution](#-execution)__Done
  * [Persistence](#-persistence)
  * [Privilege Escalation](#-privilege-escalation)
  * [Defense Evasion](#-defense-evasion)
